@@ -3,6 +3,6 @@
 ### Usage
 
 ```
-yarn install
+yarn
 yarn build
 ```
