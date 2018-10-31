@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-utilities",
+  "version": "4.1.3",
+  "description": "bootstrap utilities",
+  "main": "index.scss",
+  "repository": "git@github.com:houjiazong/bootstrap-utilities.git",
+  "author": "houjiazong <houjiazong@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "glup": "^1.0.14",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.9.4"
+  }
+}
